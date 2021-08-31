@@ -1,4 +1,4 @@
-package fo;
+package A01_flowPane;
 
 public class Ex02 {
 	
